@@ -5,7 +5,7 @@ metadata:
   name: front-end
   namespace: sock-shop
 spec:
-  replicas: 5
+  replicas: 8
   selector:
     matchLabels:
       name: front-end
